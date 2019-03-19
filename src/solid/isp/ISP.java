@@ -1,6 +1,7 @@
 package solid.isp;
 
 // isp Interface Segegation Principle, Seperate interface into smaller interfaces
+// do not force client to implement something they don't need
 class Document {
 
 }
